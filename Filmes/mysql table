@@ -1,0 +1,8 @@
+CREATE DATABASE filmedatabase;
+USE filmedatabase;
+CREATE TABLE filmes(
+id int(4) AUTO_INCREMENT,
+titulo varchar(30) NOT NULL,
+ano int(4),
+PRIMARY KEY (id)
+);
