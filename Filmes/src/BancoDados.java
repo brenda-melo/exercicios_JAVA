@@ -25,7 +25,7 @@ public class BancoDados {
     			break;
     		default:
     			System.out.println("Opção inválida!");
-    			
+    		
     		}
     		
     		System.out.println("1 - Adicionar Filme\n2 - Remover Filme\n3 - Listar Filmes\n4 - Encerrar programa.");
